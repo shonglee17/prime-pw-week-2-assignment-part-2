@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// made a variable named number and assigned the value of 1 to it
+// incremented the value of number to 2
+// wrote a conditional code if number is greater than or equal to 2
+//the console stated that 'yes' meaning number was equal or greater than 2
 
 //CODE
 /*
@@ -93,8 +93,11 @@ if (isStudent === true && zip > 80000 ) {
   console.log('How about the weather?')
 }
 
+//we assign the value of 'true' to the variable 'isStudent'
+//we assign the value of '34' to the variable 'age'
+//we assign the value of '55407' to the variable 'zip'
+//since the if statement is asking if isStudent value is true and zip is under 80000 then the console logs as 'You're a student on the West Coast!'
 */
-
 
 
 
@@ -139,6 +142,8 @@ let mix = true;
 if (mix === true) {
   colorOne = 'purple';
 }
+//FIX colorOne and colorTwo's values are vice versa so they should be switched to correct the error
+//FIX 'colorTwo should also be coded within the brackets as colorTwo = 'purple'; 
 */
 
 //5. We start with two variables -- temp is set to 40 and time is set to 4.
@@ -152,6 +157,7 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
+// FIX the condition between '39' and 'time' should be && and not || since it is asking for AND instead of OR
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
@@ -167,5 +173,7 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
+//FIX I would prefer to put age on the left side and write out "if (age >= minAge)"" *I dont know if (minAge =< age) works
+//FIX the 'no entry and enter' values needs to switched since the statement becomes true.
 */
 

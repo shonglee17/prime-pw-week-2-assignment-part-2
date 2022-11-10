@@ -45,10 +45,12 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// we assign secret as a variable
+// we assign code as a variable and its value to 123
+// code is equal to exactly 123 so secret is now assigned the value of 'duper'
+//since code equaled to 123, code is multiplied by 2, so code's value now is 246
+// 246 is less than 250 so the value of duper isn't assigned to secret
+//when we console log secret the value will be super
 
 //CODE
 /*
@@ -70,10 +72,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+//the first if statement isn't coded because 55407 isnt greater than 80000
+//the first else if statement isnt coded because isStudent isn't false or 30 isn't greater than 34
+// the 2nd else if statement is coded because iSStudent has 'true' as its value
+//since the 2nd else if statement is true the console log displays as 'Welcome to Prime!'
 
 //CODE
 /*
